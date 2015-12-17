@@ -1,6 +1,6 @@
 # Meta
 ### Meta.
-Do you want to create apps that will change the way people live their lives? How about products that are featured on Wired? Or maybe you just want to learn something new? Meta was made to help lower the extremely high barrier to entry for learning how to code and make game-changing applications.
+Do you want to create apps that will change the way people live their lives? How about products that are featured on Wired? Or maybe you just want to learn something new? Meta was made to help lower the extremely high barrier to entry for learning how to code and making game-changing applications.
 
 ### Is It For Me?
 Meta isn't for everyone, but it may be for you if one of the following is true:
