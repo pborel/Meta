@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meta - To Learn.</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+  <body>
+    <%= yield %>
+
+    <div class="footer">
+      <div class="center-inner">
+        <a href="https://www.linkedin.com/in/philborel"><img id="linkedin" src="imgs/linkedinicon.png" alt="LinkedIn"></a>
+
+        <a href="https://github.com/pborel"><img id="github" src="imgs/githubicon.png" alt="GitHub"></a>
+
+        <p>
+          &copy; 2015 Meta. All rights reserved.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,74 @@
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  line-height: 1.8;
+  font-weight: 200;
+  background-color: #FFFFFF;
+}
+
+.cta-button {
+  font-weight: 600;
+  color: #FAFAFA !important;;
+  background-color: #42C0FB;
+  width: 200px;
+  padding: 10px 30px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+  font-size: .9em;
+  font-style: uppercase;
+  text-decoration: none;
+  margin: auto;
+}
+
+.button {
+  font-weight: 600;
+  color: #42C0FB;
+  background-color: #fff;
+  border: 3px solid #42C0FB;
+  width: 125px;
+  padding: 5px 25px;
+  -moz-border-radius: 25px;
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+  font-size: 1.1em;
+  font-style: uppercase;
+  text-decoration: none;
+  display: block;
+  margin: 45px auto;
+}
+
+.footer {
+  position: relative;
+  display: block;
+  bottom: 0;
+  top: 100%;
+  max-width: 100%;
+  background-color: #364347;
+  text-align: center;
+  height: 200px;
+}
+
+.footer p {
+  font-size: .8em;
+  font-weight: 300;
+  color: #C0C0C0;
+  text-align: center;
+  padding: 5px 0;
+  margin: 0 auto;
+}
+
+.footer img {
+  width: auto;
+  height: 60px;
+  margin: 55px 10px 5px 10px;
+  padding: 0;
+}
+
+#grey {
+  background-color: #f5f5f5;
+  padding: 40px;
+}
