@@ -13,4 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require smooth-scroll
+//= require smooth-scroll2
 //= require_tree .

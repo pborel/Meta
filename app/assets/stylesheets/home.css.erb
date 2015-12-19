@@ -1,9 +1,11 @@
 .hero {
   display: inline-block;
-  height: 750px;
+  position: relative;
+  height: 725px;
   width: 100%;
   border: 0;
-  margin: 0 0 50px 0;
+  margin: 0 auto;
+  text-align: center;
   background-image: url(<%= asset_path 'limitless.jpeg' %>)
 }
 
@@ -12,13 +14,18 @@
 }
 
 .hero-text {
-  text-align: center;
   font-weight: bold;
   font-size: 35px;
   vertical-align: middle;
-  margin: auto;
+  position: relative;
+  margin: 0 auto;
+  width: 100%;
+  top: 37%;
+  height: inherit;
 }
 
 .hero-text p {
   color: white;
+  letter-spacing: 5px;
+  padding: 20px;
 }
